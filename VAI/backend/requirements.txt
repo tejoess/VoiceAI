@@ -1,0 +1,33 @@
+# ── Web framework ─────────────────────────────────────────────
+fastapi==0.115.6
+uvicorn[standard]==0.34.0
+pydantic==2.10.5
+pydantic-settings==2.7.1
+python-multipart==0.0.20
+
+# ── Database ──────────────────────────────────────────────────
+sqlalchemy[asyncio]==2.0.37
+asyncpg==0.30.0
+alembic==1.14.1
+
+# ── Cache ─────────────────────────────────────────────────────
+redis==5.2.1
+
+# ── Realtime voice infra ──────────────────────────────────────
+# `livekit` (rtc) gives raw audio I/O on the realtime path; `livekit-agents` is
+# used only for worker lifecycle + job dispatch. Custom provider clients in
+# app/voice/providers do the actual STT/LLM/TTS streaming.
+livekit==0.20.1
+livekit-api==0.8.2
+livekit-agents==0.12.11
+
+# ── Providers (HTTP / websocket streaming) ────────────────────
+openai==1.59.7
+httpx==0.28.1
+websockets==14.1
+
+# ── Utilities ─────────────────────────────────────────────────
+orjson==3.10.14
+tenacity==9.0.0
+structlog==24.4.0
+python-dotenv==1.0.1
