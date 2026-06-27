@@ -114,48 +114,6 @@ VOICES: dict[str, dict] = {
         "description": "Firm, young Indian-accented female — excellent for support desks.",
     },
 
-    # ── Sarvam bulbul:v2 – Female (7 total v2 voices) ────────────────────
-    "sarvam_anushka": {
-        "id": "sarvam_anushka",
-        "name": "Anushka",
-        "provider": TTSProvider.SARVAM,
-        "provider_voice_id": "anushka",
-        "tts_model": "bulbul:v2",
-        "gender": "female",
-        "languages": ["hi", "hinglish", "mr", "gu", "ta", "te", "kn", "ml", "bn"],
-        "description": "Natural, warm female voice — excellent for customer service.",
-    },
-    "sarvam_manisha": {
-        "id": "sarvam_manisha",
-        "name": "Manisha",
-        "provider": TTSProvider.SARVAM,
-        "provider_voice_id": "manisha",
-        "tts_model": "bulbul:v2",
-        "gender": "female",
-        "languages": ["hi", "hinglish", "mr", "gu", "ta", "te", "kn", "ml", "bn"],
-        "description": "Soft, empathetic female voice — great for healthcare or support.",
-    },
-    "sarvam_vidya": {
-        "id": "sarvam_vidya",
-        "name": "Vidya",
-        "provider": TTSProvider.SARVAM,
-        "provider_voice_id": "vidya",
-        "tts_model": "bulbul:v2",
-        "gender": "female",
-        "languages": ["hi", "hinglish", "mr", "gu", "ta", "te", "kn", "ml", "bn"],
-        "description": "Calm, knowledgeable female voice — ideal for educational or advisory agents.",
-    },
-    "sarvam_arya": {
-        "id": "sarvam_arya",
-        "name": "Arya",
-        "provider": TTSProvider.SARVAM,
-        "provider_voice_id": "arya",
-        "tts_model": "bulbul:v2",
-        "gender": "female",
-        "languages": ["hi", "hinglish", "mr", "gu", "ta", "te", "kn", "ml", "bn"],
-        "description": "Young, expressive female voice — good for engagement and sales.",
-    },
-
     # ── Sarvam bulbul:v3 – Female ─────────────────────────────────────────
     "sarvam_ritu": {
         "id": "sarvam_ritu",
@@ -296,38 +254,6 @@ VOICES: dict[str, dict] = {
         "gender": "female",
         "languages": ["en", "hi", "hinglish", "mr", "gu", "ta", "te", "kn", "ml", "bn"],
         "description": "Authoritative yet warm female voice — suited for leadership roles.",
-    },
-
-    # ── Sarvam bulbul:v2 – Male ───────────────────────────────────────────
-    "sarvam_abhilash": {
-        "id": "sarvam_abhilash",
-        "name": "Abhilash",
-        "provider": TTSProvider.SARVAM,
-        "provider_voice_id": "abhilash",
-        "tts_model": "bulbul:v2",
-        "gender": "male",
-        "languages": ["hi", "hinglish", "mr", "gu", "ta", "te", "kn", "ml", "bn"],
-        "description": "Confident, neutral male voice — great for customer support.",
-    },
-    "sarvam_karun": {
-        "id": "sarvam_karun",
-        "name": "Karun",
-        "provider": TTSProvider.SARVAM,
-        "provider_voice_id": "karun",
-        "tts_model": "bulbul:v2",
-        "gender": "male",
-        "languages": ["hi", "hinglish", "mr", "gu", "ta", "te", "kn", "ml", "bn"],
-        "description": "Calm, measured male voice — ideal for advisory or finance agents.",
-    },
-    "sarvam_hitesh": {
-        "id": "sarvam_hitesh",
-        "name": "Hitesh",
-        "provider": TTSProvider.SARVAM,
-        "provider_voice_id": "hitesh",
-        "tts_model": "bulbul:v2",
-        "gender": "male",
-        "languages": ["hi", "hinglish", "mr", "gu", "ta", "te", "kn", "ml", "bn"],
-        "description": "Energetic, persuasive male voice — great for outbound sales.",
     },
 
     # ── Sarvam bulbul:v3 – Male ───────────────────────────────────────────

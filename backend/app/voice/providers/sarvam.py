@@ -26,12 +26,6 @@ log = get_logger(__name__)
 SARVAM_TTS_URL = "https://api.sarvam.ai/text-to-speech"
 _WAV_HEADER_BYTES = 44
 
-# bulbul:v2 supports exactly these 7 speakers (from Sarvam docs).
-# All other speakers use bulbul:v3.
-_V2_SPEAKERS = frozenset({
-    "anushka", "manisha", "vidya", "arya",   # female
-    "abhilash", "karun", "hitesh",            # male
-})
 
 # Unicode script ranges → Sarvam BCP-47 language code.
 # Used to auto-detect the correct language when the LLM switches script mid-turn.
@@ -101,8 +95,7 @@ class SarvamTTS:
 
     @staticmethod
     def model_for(speaker: str) -> str:
-        """Return the correct Sarvam model for a given speaker name."""
-        return "bulbul:v2" if speaker in _V2_SPEAKERS else "bulbul:v3"
+        return "bulbul:v3"
 
     async def synthesize(
         self,

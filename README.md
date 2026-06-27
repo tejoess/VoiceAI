@@ -30,7 +30,7 @@ Browser (Next.js)  ──WebRTC──►  LiveKit  ──►  Agent Worker (Pyth
 | STT | Deepgram (streaming, interim results) |
 | LLM | OpenAI GPT-4.1 (streaming) |
 | TTS — English | Cartesia (`sonic-2`, websocket streaming) |
-| TTS — Indian languages | Sarvam AI (`bulbul:v2`, per-clause streaming) |
+| TTS — Indian languages | Sarvam AI (`bulbul:v3`, per-clause streaming) |
 
 **Voice routing:** English → Cartesia, all Indian languages → Sarvam AI. Enforced
 centrally in [`backend/app/voice/router.py`](backend/app/voice/router.py).

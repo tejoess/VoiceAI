@@ -65,7 +65,6 @@ class Settings(BaseSettings):
 
     # ── Sarvam (Indian-language TTS) ───────────────────────────
     sarvam_api_key: str = ""
-    # Model is determined per-speaker (bulbul:v2 for 7 classic voices, bulbul:v3 for the rest).
 
     # ── Audio ──────────────────────────────────────────────────
     audio_sample_rate: int = 24000
