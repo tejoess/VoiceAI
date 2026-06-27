@@ -164,7 +164,7 @@ VOICES: dict[str, dict] = {
         "provider_voice_id": "ritu",
         "tts_model": "bulbul:v3",
         "gender": "female",
-        "languages": ["hi", "hinglish", "mr", "gu", "ta", "te", "kn", "ml", "bn"],
+        "languages": ["en", "hi", "hinglish", "mr", "gu", "ta", "te", "kn", "ml", "bn"],
         "description": "Clear, pleasant female voice — suited for receptionist or IVR flows.",
     },
     "sarvam_priya": {
@@ -174,7 +174,7 @@ VOICES: dict[str, dict] = {
         "provider_voice_id": "priya",
         "tts_model": "bulbul:v3",
         "gender": "female",
-        "languages": ["hi", "hinglish", "mr", "gu", "ta", "te", "kn", "ml", "bn"],
+        "languages": ["en", "hi", "hinglish", "mr", "gu", "ta", "te", "kn", "ml", "bn"],
         "description": "Friendly, cheerful female voice — ideal for consumer apps.",
     },
     "sarvam_neha": {
@@ -184,7 +184,7 @@ VOICES: dict[str, dict] = {
         "provider_voice_id": "neha",
         "tts_model": "bulbul:v3",
         "gender": "female",
-        "languages": ["hi", "hinglish", "mr", "gu", "ta", "te", "kn", "ml", "bn"],
+        "languages": ["en", "hi", "hinglish", "mr", "gu", "ta", "te", "kn", "ml", "bn"],
         "description": "Upbeat, conversational female voice — great for outbound calls.",
     },
     "sarvam_pooja": {
@@ -194,7 +194,7 @@ VOICES: dict[str, dict] = {
         "provider_voice_id": "pooja",
         "tts_model": "bulbul:v3",
         "gender": "female",
-        "languages": ["hi", "hinglish", "mr", "gu", "ta", "te", "kn", "ml", "bn"],
+        "languages": ["en", "hi", "hinglish", "mr", "gu", "ta", "te", "kn", "ml", "bn"],
         "description": "Warm, approachable female voice — suited for support desks.",
     },
     "sarvam_simran": {
@@ -204,7 +204,7 @@ VOICES: dict[str, dict] = {
         "provider_voice_id": "simran",
         "tts_model": "bulbul:v3",
         "gender": "female",
-        "languages": ["hi", "hinglish", "mr", "gu", "ta", "te", "kn", "ml", "bn"],
+        "languages": ["en", "hi", "hinglish", "mr", "gu", "ta", "te", "kn", "ml", "bn"],
         "description": "Confident, professional female voice — ideal for formal business calls.",
     },
     "sarvam_kavya": {
@@ -214,7 +214,7 @@ VOICES: dict[str, dict] = {
         "provider_voice_id": "kavya",
         "tts_model": "bulbul:v3",
         "gender": "female",
-        "languages": ["hi", "hinglish", "mr", "gu", "ta", "te", "kn", "ml", "bn"],
+        "languages": ["en", "hi", "hinglish", "mr", "gu", "ta", "te", "kn", "ml", "bn"],
         "description": "Gentle, soothing female voice — excellent for healthcare agents.",
     },
     "sarvam_ishita": {
@@ -224,7 +224,7 @@ VOICES: dict[str, dict] = {
         "provider_voice_id": "ishita",
         "tts_model": "bulbul:v3",
         "gender": "female",
-        "languages": ["hi", "hinglish", "mr", "gu", "ta", "te", "kn", "ml", "bn"],
+        "languages": ["en", "hi", "hinglish", "mr", "gu", "ta", "te", "kn", "ml", "bn"],
         "description": "Lively, energetic female voice — great for retail and e-commerce.",
     },
     "sarvam_shreya": {
@@ -234,7 +234,7 @@ VOICES: dict[str, dict] = {
         "provider_voice_id": "shreya",
         "tts_model": "bulbul:v3",
         "gender": "female",
-        "languages": ["hi", "hinglish", "mr", "gu", "ta", "te", "kn", "ml", "bn"],
+        "languages": ["en", "hi", "hinglish", "mr", "gu", "ta", "te", "kn", "ml", "bn"],
         "description": "Polished, articulate female voice — suited for enterprise agents.",
     },
     "sarvam_roopa": {
@@ -244,7 +244,7 @@ VOICES: dict[str, dict] = {
         "provider_voice_id": "roopa",
         "tts_model": "bulbul:v3",
         "gender": "female",
-        "languages": ["hi", "hinglish", "mr", "gu", "ta", "te", "kn", "ml", "bn"],
+        "languages": ["en", "hi", "hinglish", "mr", "gu", "ta", "te", "kn", "ml", "bn"],
         "description": "Mature, authoritative female voice — great for advisory and finance.",
     },
     "sarvam_tanya": {
@@ -254,7 +254,7 @@ VOICES: dict[str, dict] = {
         "provider_voice_id": "tanya",
         "tts_model": "bulbul:v3",
         "gender": "female",
-        "languages": ["hi", "hinglish", "mr", "gu", "ta", "te", "kn", "ml", "bn"],
+        "languages": ["en", "hi", "hinglish", "mr", "gu", "ta", "te", "kn", "ml", "bn"],
         "description": "Smooth, reassuring female voice — ideal for finance or insurance.",
     },
     "sarvam_shruti": {
@@ -264,7 +264,7 @@ VOICES: dict[str, dict] = {
         "provider_voice_id": "shruti",
         "tts_model": "bulbul:v3",
         "gender": "female",
-        "languages": ["hi", "hinglish", "mr", "gu", "ta", "te", "kn", "ml", "bn"],
+        "languages": ["en", "hi", "hinglish", "mr", "gu", "ta", "te", "kn", "ml", "bn"],
         "description": "Clear, melodic female voice — great for announcements and IVR.",
     },
     "sarvam_suhani": {
@@ -274,7 +274,7 @@ VOICES: dict[str, dict] = {
         "provider_voice_id": "suhani",
         "tts_model": "bulbul:v3",
         "gender": "female",
-        "languages": ["hi", "hinglish", "mr", "gu", "ta", "te", "kn", "ml", "bn"],
+        "languages": ["en", "hi", "hinglish", "mr", "gu", "ta", "te", "kn", "ml", "bn"],
         "description": "Bubbly, engaging female voice — perfect for hospitality agents.",
     },
     "sarvam_kavitha": {
@@ -284,7 +284,7 @@ VOICES: dict[str, dict] = {
         "provider_voice_id": "kavitha",
         "tts_model": "bulbul:v3",
         "gender": "female",
-        "languages": ["hi", "hinglish", "ta", "te", "kn", "ml"],
+        "languages": ["en", "hi", "hinglish", "ta", "te", "kn", "ml"],
         "description": "Natural South-Indian female voice — great for regional language agents.",
     },
     "sarvam_rupali": {
@@ -294,7 +294,7 @@ VOICES: dict[str, dict] = {
         "provider_voice_id": "rupali",
         "tts_model": "bulbul:v3",
         "gender": "female",
-        "languages": ["hi", "hinglish", "mr", "gu", "ta", "te", "kn", "ml", "bn"],
+        "languages": ["en", "hi", "hinglish", "mr", "gu", "ta", "te", "kn", "ml", "bn"],
         "description": "Authoritative yet warm female voice — suited for leadership roles.",
     },
 
@@ -338,7 +338,7 @@ VOICES: dict[str, dict] = {
         "provider_voice_id": "shubh",
         "tts_model": "bulbul:v3",
         "gender": "male",
-        "languages": ["hi", "hinglish", "mr", "gu", "ta", "te", "kn", "ml", "bn"],
+        "languages": ["en", "hi", "hinglish", "mr", "gu", "ta", "te", "kn", "ml", "bn"],
         "description": "Balanced, neutral male voice — the default v3 voice for general use.",
     },
     "sarvam_aditya": {
@@ -348,7 +348,7 @@ VOICES: dict[str, dict] = {
         "provider_voice_id": "aditya",
         "tts_model": "bulbul:v3",
         "gender": "male",
-        "languages": ["hi", "hinglish", "mr", "gu", "ta", "te", "kn", "ml", "bn"],
+        "languages": ["en", "hi", "hinglish", "mr", "gu", "ta", "te", "kn", "ml", "bn"],
         "description": "Young, friendly male voice — suited for consumer-facing agents.",
     },
     "sarvam_rahul": {
@@ -358,7 +358,7 @@ VOICES: dict[str, dict] = {
         "provider_voice_id": "rahul",
         "tts_model": "bulbul:v3",
         "gender": "male",
-        "languages": ["hi", "hinglish", "mr", "gu", "ta", "te", "kn", "ml", "bn"],
+        "languages": ["en", "hi", "hinglish", "mr", "gu", "ta", "te", "kn", "ml", "bn"],
         "description": "Clear, professional male voice — ideal for enterprise and B2B.",
     },
     "sarvam_rohan": {
@@ -368,7 +368,7 @@ VOICES: dict[str, dict] = {
         "provider_voice_id": "rohan",
         "tts_model": "bulbul:v3",
         "gender": "male",
-        "languages": ["hi", "hinglish", "mr", "gu", "ta", "te", "kn", "ml", "bn"],
+        "languages": ["en", "hi", "hinglish", "mr", "gu", "ta", "te", "kn", "ml", "bn"],
         "description": "Approachable, conversational male voice — great for inbound calls.",
     },
     "sarvam_amit": {
@@ -378,7 +378,7 @@ VOICES: dict[str, dict] = {
         "provider_voice_id": "amit",
         "tts_model": "bulbul:v3",
         "gender": "male",
-        "languages": ["hi", "hinglish", "mr", "gu", "ta", "te", "kn", "ml", "bn"],
+        "languages": ["en", "hi", "hinglish", "mr", "gu", "ta", "te", "kn", "ml", "bn"],
         "description": "Steady, trustworthy male voice — suited for banking or legal agents.",
     },
     "sarvam_dev": {
@@ -388,7 +388,7 @@ VOICES: dict[str, dict] = {
         "provider_voice_id": "dev",
         "tts_model": "bulbul:v3",
         "gender": "male",
-        "languages": ["hi", "hinglish", "mr", "gu", "ta", "te", "kn", "ml", "bn"],
+        "languages": ["en", "hi", "hinglish", "mr", "gu", "ta", "te", "kn", "ml", "bn"],
         "description": "Tech-savvy, modern male voice — ideal for SaaS or tech products.",
     },
     "sarvam_ratan": {
@@ -398,7 +398,7 @@ VOICES: dict[str, dict] = {
         "provider_voice_id": "ratan",
         "tts_model": "bulbul:v3",
         "gender": "male",
-        "languages": ["hi", "hinglish", "mr", "gu", "ta", "te", "kn", "ml", "bn"],
+        "languages": ["en", "hi", "hinglish", "mr", "gu", "ta", "te", "kn", "ml", "bn"],
         "description": "Warm, mature male voice — great for premium or advisory brands.",
     },
     "sarvam_varun": {
@@ -408,7 +408,7 @@ VOICES: dict[str, dict] = {
         "provider_voice_id": "varun",
         "tts_model": "bulbul:v3",
         "gender": "male",
-        "languages": ["hi", "hinglish", "mr", "gu", "ta", "te", "kn", "ml", "bn"],
+        "languages": ["en", "hi", "hinglish", "mr", "gu", "ta", "te", "kn", "ml", "bn"],
         "description": "Dynamic, upbeat male voice — great for e-commerce or retail.",
     },
     "sarvam_manan": {
@@ -418,7 +418,7 @@ VOICES: dict[str, dict] = {
         "provider_voice_id": "manan",
         "tts_model": "bulbul:v3",
         "gender": "male",
-        "languages": ["hi", "hinglish", "mr", "gu", "ta", "te", "kn", "ml", "bn"],
+        "languages": ["en", "hi", "hinglish", "mr", "gu", "ta", "te", "kn", "ml", "bn"],
         "description": "Thoughtful, composed male voice — ideal for consulting agents.",
     },
     "sarvam_sumit": {
@@ -428,7 +428,7 @@ VOICES: dict[str, dict] = {
         "provider_voice_id": "sumit",
         "tts_model": "bulbul:v3",
         "gender": "male",
-        "languages": ["hi", "hinglish", "mr", "gu", "ta", "te", "kn", "ml", "bn"],
+        "languages": ["en", "hi", "hinglish", "mr", "gu", "ta", "te", "kn", "ml", "bn"],
         "description": "Energetic, direct male voice — great for outbound or sales calls.",
     },
     "sarvam_kabir": {
@@ -438,7 +438,7 @@ VOICES: dict[str, dict] = {
         "provider_voice_id": "kabir",
         "tts_model": "bulbul:v3",
         "gender": "male",
-        "languages": ["hi", "hinglish", "mr", "gu", "ta", "te", "kn", "ml", "bn"],
+        "languages": ["en", "hi", "hinglish", "mr", "gu", "ta", "te", "kn", "ml", "bn"],
         "description": "Deep, authoritative male voice — excellent for announcements and IVR.",
     },
     "sarvam_aayan": {
@@ -448,7 +448,7 @@ VOICES: dict[str, dict] = {
         "provider_voice_id": "aayan",
         "tts_model": "bulbul:v3",
         "gender": "male",
-        "languages": ["hi", "hinglish", "mr", "gu", "ta", "te", "kn", "ml", "bn"],
+        "languages": ["en", "hi", "hinglish", "mr", "gu", "ta", "te", "kn", "ml", "bn"],
         "description": "Youthful, lively male voice — suited for apps targeting Gen-Z.",
     },
     "sarvam_ashutosh": {
@@ -458,7 +458,7 @@ VOICES: dict[str, dict] = {
         "provider_voice_id": "ashutosh",
         "tts_model": "bulbul:v3",
         "gender": "male",
-        "languages": ["hi", "hinglish", "mr", "gu", "ta", "te", "kn", "ml", "bn"],
+        "languages": ["en", "hi", "hinglish", "mr", "gu", "ta", "te", "kn", "ml", "bn"],
         "description": "Reliable, steady male voice — ideal for utility or government agents.",
     },
     "sarvam_advait": {
@@ -468,7 +468,7 @@ VOICES: dict[str, dict] = {
         "provider_voice_id": "advait",
         "tts_model": "bulbul:v3",
         "gender": "male",
-        "languages": ["hi", "hinglish", "mr", "gu", "ta", "te", "kn", "ml", "bn"],
+        "languages": ["en", "hi", "hinglish", "mr", "gu", "ta", "te", "kn", "ml", "bn"],
         "description": "Calm, intellectual male voice — great for education platforms.",
     },
     "sarvam_anand": {
@@ -478,7 +478,7 @@ VOICES: dict[str, dict] = {
         "provider_voice_id": "anand",
         "tts_model": "bulbul:v3",
         "gender": "male",
-        "languages": ["hi", "hinglish", "mr", "gu", "ta", "te", "kn", "ml", "bn"],
+        "languages": ["en", "hi", "hinglish", "mr", "gu", "ta", "te", "kn", "ml", "bn"],
         "description": "Cheerful, positive male voice — perfect for wellness or lifestyle brands.",
     },
     "sarvam_tarun": {
@@ -488,7 +488,7 @@ VOICES: dict[str, dict] = {
         "provider_voice_id": "tarun",
         "tts_model": "bulbul:v3",
         "gender": "male",
-        "languages": ["hi", "hinglish", "mr", "gu", "ta", "te", "kn", "ml", "bn"],
+        "languages": ["en", "hi", "hinglish", "mr", "gu", "ta", "te", "kn", "ml", "bn"],
         "description": "Enthusiastic, youthful male voice — suited for startup or lifestyle brands.",
     },
     "sarvam_sunny": {
@@ -498,7 +498,7 @@ VOICES: dict[str, dict] = {
         "provider_voice_id": "sunny",
         "tts_model": "bulbul:v3",
         "gender": "male",
-        "languages": ["hi", "hinglish", "mr", "gu", "ta", "te", "kn", "ml", "bn"],
+        "languages": ["en", "hi", "hinglish", "mr", "gu", "ta", "te", "kn", "ml", "bn"],
         "description": "Cheerful, optimistic male voice — great for hospitality agents.",
     },
     "sarvam_mani": {
@@ -538,7 +538,7 @@ VOICES: dict[str, dict] = {
         "provider_voice_id": "mohit",
         "tts_model": "bulbul:v3",
         "gender": "male",
-        "languages": ["hi", "hinglish", "mr", "gu", "ta", "te", "kn", "ml", "bn"],
+        "languages": ["en", "hi", "hinglish", "mr", "gu", "ta", "te", "kn", "ml", "bn"],
         "description": "Smooth, polished male voice — ideal for customer success teams.",
     },
     "sarvam_rehan": {
@@ -548,7 +548,7 @@ VOICES: dict[str, dict] = {
         "provider_voice_id": "rehan",
         "tts_model": "bulbul:v3",
         "gender": "male",
-        "languages": ["hi", "hinglish", "mr", "gu", "ta", "te", "kn", "ml", "bn"],
+        "languages": ["en", "hi", "hinglish", "mr", "gu", "ta", "te", "kn", "ml", "bn"],
         "description": "Warm, empathetic male voice — suited for support or healthcare.",
     },
     "sarvam_soham": {
@@ -558,7 +558,7 @@ VOICES: dict[str, dict] = {
         "provider_voice_id": "soham",
         "tts_model": "bulbul:v3",
         "gender": "male",
-        "languages": ["hi", "hinglish", "mr", "gu", "ta", "te", "kn", "ml", "bn"],
+        "languages": ["en", "hi", "hinglish", "mr", "gu", "ta", "te", "kn", "ml", "bn"],
         "description": "Intelligent, composed male voice — great for advisory agents.",
     },
 }

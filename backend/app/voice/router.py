@@ -29,7 +29,7 @@ log = get_logger(__name__)
 # serve the active language.
 _FALLBACK_NATIVE = {
     TTSProvider.CARTESIA: voice_data.get_voice("cartesia_cindy")["provider_voice_id"],
-    TTSProvider.SARVAM: voice_data.get_voice("sarvam_anushka")["provider_voice_id"],
+    TTSProvider.SARVAM: voice_data.get_voice("sarvam_ritu")["provider_voice_id"],
 }
 
 
